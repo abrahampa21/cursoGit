@@ -1,1 +1,0 @@
-const hola = "Cómo estás?"
